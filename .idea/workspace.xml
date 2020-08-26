@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34104491-8a68-4020-b3ff-995c17a6fa62" name="Default Changelist" comment="" />
+    <list default="true" id="34104491-8a68-4020-b3ff-995c17a6fa62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1011.ContinuousPartCapacityofShip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239. SlidingWindowMaximum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/289.ConwaysGameOfLife.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/367.ValidPerfectSquare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/410.ContinuoiusPartSplitArrayLargestSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/967. NumbersWithSameConsecutiveDiff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1gb6T9GxoV5GrCU4XNBBh0N4oKh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -39,7 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Valid15Puzzle" />
+        <item itemvalue="Python.289.Valid15Puzzle" />
       </list>
     </recent_temporary>
   </component>
@@ -55,5 +83,11 @@
       <updated>1598370949926</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="245" key="new project wizard" timestamp="1598482724208">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="354" y="245" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1598482724208" />
   </component>
 </project>
